@@ -1,5 +1,7 @@
 # 💫 About Me:
-Mohamed Nabil
+A second-year Mechatronics Engineering student at New Cairo Technological University, with a Distinction in the first academic
+year. Skilled in software development, embedded systems, control systems, and automation. Experienced in programming training,
+desktop and mobile application development, and robotics competitions such as RoboCup Junior and ExRobo.
 
 
 ## 🌐 Socials:
